@@ -1,0 +1,7 @@
+/docs
+/fft
+/test
+*.pyc
+*.pickle
+*.png
+*.svg

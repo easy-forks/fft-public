@@ -1,0 +1,13 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}", // 어떤 python 파일을 실행할 것인지
+            // "args": ["--log", "action"],
+            "console": "integratedTerminal"
+        }
+    ]
+}
